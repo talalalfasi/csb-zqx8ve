@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://talalalfasi.github.io/csb-zqx8ve/static/css/main.9c7f06fa.chunk.css",
+    "main.js": "https://talalalfasi.github.io/csb-zqx8ve/static/js/main.4945d888.chunk.js",
+    "main.js.map": "https://talalalfasi.github.io/csb-zqx8ve/static/js/main.4945d888.chunk.js.map",
+    "runtime-main.js": "https://talalalfasi.github.io/csb-zqx8ve/static/js/runtime-main.d0e57608.js",
+    "runtime-main.js.map": "https://talalalfasi.github.io/csb-zqx8ve/static/js/runtime-main.d0e57608.js.map",
+    "static/js/2.fe540434.chunk.js": "https://talalalfasi.github.io/csb-zqx8ve/static/js/2.fe540434.chunk.js",
+    "static/js/2.fe540434.chunk.js.map": "https://talalalfasi.github.io/csb-zqx8ve/static/js/2.fe540434.chunk.js.map",
+    "index.html": "https://talalalfasi.github.io/csb-zqx8ve/index.html",
+    "static/css/main.9c7f06fa.chunk.css.map": "https://talalalfasi.github.io/csb-zqx8ve/static/css/main.9c7f06fa.chunk.css.map",
+    "static/js/2.fe540434.chunk.js.LICENSE.txt": "https://talalalfasi.github.io/csb-zqx8ve/static/js/2.fe540434.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e57608.js",
+    "static/js/2.fe540434.chunk.js",
+    "static/css/main.9c7f06fa.chunk.css",
+    "static/js/main.4945d888.chunk.js"
+  ]
+}
